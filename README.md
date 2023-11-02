@@ -28,6 +28,7 @@ Prepare your input file containing SMILES in .csv format and name the column as 
 Make sure the paths of model, CYP2D6_inhibition.pkl file and input files before executing the code file named as CYP2D6_inhibition_Prediction_model.ipynb.
 
 **Output:**
+
 Our model generates output in binary value (1 or 0), where 1 indicates compound to be inhibitor, while 0 indicates non-inhibitor.
 
 **Authors:** 
